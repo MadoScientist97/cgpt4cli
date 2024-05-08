@@ -13,7 +13,7 @@ build/
 .springBeans
 .sts4-cache
 bin/
-/src/main/resources/api-key.property
+/src/main/resources/api_key.property
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
